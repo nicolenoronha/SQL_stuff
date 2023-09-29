@@ -1,3 +1,5 @@
+-- Creating a Table: Example from an Airbnb Database Project
+
 -- @block
 CREATE TABLE Users (
     id INT PRIMARY KEY AUTO_INCREMENT,
