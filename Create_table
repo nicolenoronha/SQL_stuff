@@ -1,4 +1,4 @@
--- Creating a Table: Example from an Airbnb Database Project
+-- Following Fireship tutorial to create database:
 
 -- @block
 CREATE TABLE Users (
