@@ -1,4 +1,4 @@
--- Following Fireship tutorial to create database:
+-- Following Fireship tutorial to create a table in a database:
 
 -- @block
 CREATE TABLE Users (
